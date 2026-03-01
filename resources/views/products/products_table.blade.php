@@ -33,10 +33,6 @@
                                 <tr class="hover:bg-indigo-50/30 transition-colors">
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
-                                            <div
-                                                class="h-10 w-10 flex-shrink-0 bg-indigo-100 rounded-lg flex items-center justify-center text-indigo-600 font-bold">
-                                                WH
-                                            </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-semibold text-gray-900">Wireless Headphones</div>
                                                 <div class="text-xs text-gray-500">ID: #PROD-001</div>
@@ -53,7 +49,7 @@
                                     <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600">
                                         45 Units
                                     </td>
-                                    
+
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <div class="flex justify-end gap-2">
                                             <button
@@ -70,14 +66,9 @@
                                     </td>
                                 </tr>
 
-                                <!-- Example Row 2 (Low Stock) -->
                                 <tr class="hover:bg-indigo-50/30 transition-colors">
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
-                                            <div
-                                                class="h-10 w-10 flex-shrink-0 bg-orange-100 rounded-lg flex items-center justify-center text-orange-600 font-bold">
-                                                MK
-                                            </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-semibold text-gray-900">Mechanical Keyboard</div>
                                                 <div class="text-xs text-gray-500">ID: #PROD-002</div>
@@ -94,7 +85,7 @@
                                     <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600">
                                         5 Units
                                     </td>
-                                    
+
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <div class="flex justify-end gap-2">
                                             <button
