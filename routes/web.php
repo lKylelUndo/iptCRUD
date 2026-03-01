@@ -8,6 +8,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/show-all-products', [ProductController::class, 'index']);
-Route::get('/create-product-form', [ProductController::class, 'create']);
-Route::get('/create-category-form', [CategoryController::class, 'create']);
+Route::get('/product/show-all-products', [ProductController::class, 'index'])->name("product.index");
+Route::get('/product/create-product-form', [ProductController::class, 'create'])->name("product.create");
+Route::get('/category/create-category-form', [CategoryController::class, 'create'])->name("category.create");
